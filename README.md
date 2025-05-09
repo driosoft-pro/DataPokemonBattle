@@ -76,4 +76,3 @@ Based on our analysis, we selected the most effective rock-type Pokémon for str
 ---
 
 Feel free to clone, explore, and give feedback!
-
